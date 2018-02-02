@@ -1,0 +1,33 @@
+
+.quote-box {
+ 
+  padding: 40px 50px;
+  margin: 8% auto auto auto;
+  position: relative;
+  min-width:450px;
+  max-width: 600px;
+  border: 1px solid;
+}
+
+.quote-buttons {
+  width:230px;
+  margin: auto;
+  font-size: 1.2em;
+}
+
+#getquote {
+  margin-left: 20px;
+}
+.quote-text {
+  margin: 20px auto;
+  text-align: center;
+  width: 450px;height: auto;
+  font-size: 1.5em;
+  color: gray;
+}
+.fa-quote-left {
+  margin-right: 10px;
+  font-size: 1.2em;
+  color: gray;
+}
+
